@@ -5,3 +5,20 @@
 3.It is fast.
 4.Easy to learn.
 5.NumPy uses relatively small memory for store data.
+
+
+Numpy uses ndarray
+
+-----------  Numpy array creation -----------
+
+1.Conversion from other Python structures (i.e. lists and tuples)
+
+2.Intrinsic NumPy array creation functions (e.g. arange, ones, zeros, etc.)
+
+3.Replicating, joining, or mutating existing arrays
+
+4.Reading arrays from disk, either from standard or custom formats
+
+5.Creating arrays from raw bytes through the use of strings or buffers
+
+6.Use of special library functions (e.g., random)
