@@ -1,5 +1,5 @@
 # Numpy
-numpy tutorial
+# numpy tutorial
 
 # we are going to perform numpy operation through jupyter notebook
 
